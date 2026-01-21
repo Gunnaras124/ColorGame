@@ -1,3 +1,7 @@
+
+<img width="795" height="629" alt="Screenshot 2026-01-14 185638" src="https://github.com/user-attachments/assets/93a7bf78-531d-43cd-92f8-df7bd556f6be" />
+
+
 🎨 ColorGame
 
 Where your brain betrays you in under 30 seconds.
